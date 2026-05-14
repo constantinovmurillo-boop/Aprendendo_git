@@ -1,2 +1,9 @@
-# Aprendendo_git
-Repositório para aprender git, matéria de Práticas em Ciência de Dados (PCD)
+# Aula de git na matéria de Prática em Ciência de Dados
+
+Repositório de aula para aprender git
+
+Aluno: Murillo Constantinov
+Docente: Daniel R. Cassar
+Instituição: Ilum Escola de ciência
+
+Neste momento, o repositório está em construção
