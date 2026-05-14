@@ -8,3 +8,4 @@ Instituição: Ilum Escola de ciência
 
 Neste momento, o repositório está em construção
 
+Devemos ficar sempre atentos aos detalhes para programar
